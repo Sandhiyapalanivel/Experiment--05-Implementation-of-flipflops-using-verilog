@@ -109,32 +109,46 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: SANDHIYA.P
+
+RegisterNumber: 212223230183  
 */
 
+### SR FLIP FLOP PROGRAM:
+![sr flipflop program](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/1b4dab2f-e890-4d65-b871-f17d3491aca2)
 
+### SR FLIP FLOP RTL VIEW:
+![sr flipflop rtl](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/5459de76-3037-4bd2-8fa0-d7043c2b380e)
 
+### SR FLIP FLOP TIMING DIAGRAM:
+![sr flipflop wae](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/c7a98132-b72d-4158-a4b3-907cba44bf65)
 
+### D FLIP FLOP PROGRAM:
+![d flipflop program](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/0c125a31-efbb-4a19-b89e-e5c87cfb9bf9)
 
+### D FLIP FLOP RTL VIEW:
+![d flipflop rtl](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/e8818dc0-b1e9-4e41-bb35-a45c0771b244)
 
-### RTL LOGIC FOR FLIPFLOPS 
+### D FLIP FLOP TIMING DIAGRAM:
+![d flipflop wae](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/ed1de4b3-5cd2-4599-96a9-16bc0f44f8d7)
 
+### JK FLIP FLOP PROGRAM:
+![jk flipflop program](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/e8b7e739-2a71-4cc2-a025-fdbf9973944a)
 
+### JK FLIP FLOP RTL VIEW:
+![jk flipflop rtl](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/8fd9b369-aa63-4a98-acb3-0be001acf93c)
 
+### JK FLIP FLOP TIMING DIAGRAM:
+![jk flipflop wave](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/f8a40cbb-b327-47d1-beea-8b104ed8390d)
 
+### T FLIP FLOP PROGRAM:
+![t flipflop program](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/f05364b6-0942-4678-9472-ffe7d06443a7)
 
+### T FLIP FLOP RTL VIEW:
+![t flipflop rtl](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/a034e7dd-b135-4e5b-80d0-dbf288a0f1ad)
 
+### T FLIP FLOP TIMING DIAGRAM:
+![t flipflop wave](https://github.com/Sandhiyapalanivel/Experiment--05-Implementation-of-flipflops-using-verilog/assets/145743091/9040cb15-590c-4136-b26f-08c7c861c288)
 
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
-
-
-
-### RESULTS 
+### RESULTS:
+  Thus implementation of SR,JK,Dand T flipflops using nand gates are done successfully.
